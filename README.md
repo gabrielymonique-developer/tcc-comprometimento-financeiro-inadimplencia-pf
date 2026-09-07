@@ -1,4 +1,4 @@
-# TCC – Comprometimento de Renda e Inadimplência de Pessoas Físicas
+# TCC – Comprometimento financeiro das famílias e inadimplência: modelagem em Data Science
 
 Este repositório contém os bancos de dados, códigos e documentação utilizados no desenvolvimento do Trabalho de Conclusão de Curso (TCC), com foco na análise da relação entre indicadores de comprometimento financeiro das famílias e a inadimplência da carteira de crédito destinada a Pessoas Físicas.
 
