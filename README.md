@@ -1,6 +1,6 @@
-# TCC – Comprometimento financeiro das famílias e inadimplência: modelagem em Data Science
+# TCC – Inadimplência e comprometimento financeiro das famílias: abordagem de Data Science aplicada ao risco de crédito
 
-Este repositório contém os bancos de dados, códigos e documentação utilizados no desenvolvimento do Trabalho de Conclusão de Curso (TCC), com foco na análise da relação entre indicadores de comprometimento financeiro das famílias e a inadimplência da carteira de crédito destinada a Pessoas Físicas.
+Este repositório contém os bancos de dados, códigos e documentação utilizados no desenvolvimento do Trabalho de Conclusão de Curso (TCC) **“Inadimplência e comprometimento financeiro das famílias: abordagem de Data Science aplicada ao risco de crédito”**, desenvolvido no MBA em Data Science e Analytics.
 
 O objetivo deste ambiente é permitir a **consulta, rastreabilidade e reprodução das análises realizadas no estudo**.
 
